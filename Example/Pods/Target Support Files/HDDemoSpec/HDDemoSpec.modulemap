@@ -1,0 +1,6 @@
+framework module HDDemoSpec {
+  umbrella header "HDDemoSpec-umbrella.h"
+
+  export *
+  module * { export * }
+}

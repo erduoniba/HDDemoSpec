@@ -1,0 +1,6 @@
+framework module Pods_HDDemoSpec_Tests {
+  umbrella header "Pods-HDDemoSpec_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

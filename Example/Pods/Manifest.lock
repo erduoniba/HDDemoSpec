@@ -1,0 +1,14 @@
+PODS:
+  - HDDemoSpec (0.1.0)
+
+DEPENDENCIES:
+  - HDDemoSpec (from `../`)
+
+EXTERNAL SOURCES:
+  HDDemoSpec:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HDDemoSpec: e6705f81b38a69667e890fd14939e38b3ff06a28
+
+COCOAPODS: 0.38.2
