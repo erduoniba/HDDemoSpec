@@ -9,7 +9,7 @@ s.license          = 'MIT'
 s.author           = { "Harry" => "328418417@qq.com" }
 s.source           = { :git => "https://github.com/erduoniba/HDDemoSpec.git", :tag => "0.1.0" }
 
-s.platform     = :ios, '7.0'
+s.platform     = :ios, '6.0'
 s.requires_arc = true
 
 s.source_files = 'Pod/Classes/**/*'
